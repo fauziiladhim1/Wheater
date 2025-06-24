@@ -126,8 +126,8 @@ Proyek ini dikembangkan sebagai bagian dari praktik Pemrograman Geospasial Web.
 
 * **Nama**: Muhammad Fauzil Adhim Sulistyo
 * **NIM/Kelas**: 23/524853/SV/23514 | PGWEBL A
-* **GitHub**: [USERNAME_ANDA](https://github.com/fauziiladhim1)
-* **LinkedIn**: [PROFIL_LINKEDIN_ANDA](https://www.linkedin.com/in/fauziiladhim)
+* **GitHub**: [fauziiladhim1](https://github.com/fauziiladhim1)
+* **LinkedIn**: [fauziiladim](https://www.linkedin.com/in/fauziiladhim)
 
 ---
 
